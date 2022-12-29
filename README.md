@@ -1,0 +1,2 @@
+# nucleo-144-LEGOTechnique-Base
+STM32H7系などでおなじみのnucleo-144ボードとLEGOテクニックを組み合わせたい際に使えるベースです。
